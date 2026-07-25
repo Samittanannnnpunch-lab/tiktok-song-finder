@@ -1,4 +1,3 @@
 streamlit
 requests
 beautifulsoup4
-shazamio==0.5.1
