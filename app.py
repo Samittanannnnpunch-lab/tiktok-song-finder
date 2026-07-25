@@ -1,6 +1,5 @@
 import asyncio
 import os
-from shazamio import Shazam
 import streamlit as st
 import yt_dlp
 
